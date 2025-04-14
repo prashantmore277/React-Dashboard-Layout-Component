@@ -15,5 +15,5 @@ This template is ideal for developers who want to quickly build a robust, scalab
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/react-dashboard-template.git
+   git clone https://github.com/prashantmore277/React-Dashboard-Layout-Component.git
 
